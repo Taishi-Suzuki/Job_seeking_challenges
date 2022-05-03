@@ -131,6 +131,3 @@ http://localhost:80/image
 マイグレーションの記述  
 /task_klavis/app/database/migrations/2022_04_20_045931_ai_analysis_log.php
 /task_klavis/app/database/seeders/Ai_analysis_logTableSeeder.php
-
-# その他
-ご不明点あれば、レバテックエージェント、またはvanshihoshi@gmail.comへご連絡ください。
